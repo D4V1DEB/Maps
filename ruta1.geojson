@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paradero 1"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-71.5243259, -16.4616731]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paradero 2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-71.5211525, -16.4601576]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paradero 3"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-71.512411, -16.4499182]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paradero 4"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-71.516154, -16.4470445]
+        }
+      }
+    ]
+  }
+  
