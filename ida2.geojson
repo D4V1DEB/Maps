@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "La Palizada"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.45692, -71.52177]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Los Arrayanes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.45795, -71.52378]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Pje Los Nogales"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.45902, -71.5252]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "El Bosque"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.45962, -71.52451]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "El Bosque"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.46171, -71.52678]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Salaverry"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.46176, -71.52788]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Pje.Tingo"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.45266, -71.53145]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Silva"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.4539, -71.53346]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Lara Kids"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.45061, -71.53321]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paisajista"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.44936, -71.53399]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Oroya"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.44194, -71.52881]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Huamachuco"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.44075, -71.52554]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Parque Dolores"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.43838, -71.5217]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Dolores"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.43643, -71.52127]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Hartley"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.4292, -71.52352]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Reservorio"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.42557, -71.51497]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Lambramani"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.4191, -71.51716]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Los Incas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.41124, -71.52145]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Independencia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40555, -71.52893]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Bogota"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40437, -71.53169]
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Bogota"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40438, -71.5317]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "La Salle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40009, -71.52627]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Mariscal Castilla"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.39957, -71.5216]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Porongoche"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.42022, -71.51657]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Reservorio"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.42557, -71.51497]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Hartley"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.4292, -71.52352]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Dolores"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.43643, -71.52127]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Mal. Dolores"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.43704, -71.52404]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Oroya"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.44086, -71.52551]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Socabaya"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.44199, -71.52899]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paisajista"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.44875, -71.53326]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Salaverry"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.44978, -71.53274]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Salaverry"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.45446, -71.52981]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Salaverry"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.45959, -71.52874]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Salaverry"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.46176, -71.52788]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "El Bosque"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.46171, -71.52678]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "El Bosque"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.45962, -71.52452]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Pje Los Nogales"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.45902, -71.52521]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Los Arrayanes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.45795, -71.52378]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "La Palizada"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.45692, -71.52177]
+        }
+      }
+    ]
+  }
+  
